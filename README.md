@@ -29,7 +29,7 @@ Example request to manually generate the shortened uri address
  }
 ```
 
-## POST URL to ake a short URL and redirect to the original URL.
+## POST URL to take a short URL and redirect to the original URL.
 
 `http://localhost:<port>/api/Redirect`
 
